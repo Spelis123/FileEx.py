@@ -1,0 +1,1 @@
+python -m PyInstaller FileEx.py -F -n 'FileExpy' -c -i "NONE"
